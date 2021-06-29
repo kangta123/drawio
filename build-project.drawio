@@ -1,1 +1,248 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T08:34:34.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="In-XCaKAwCe6qU9BApGQ" version="14.5.3" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-29T09:50:29.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="kQKzXfLVEDyuGsq62FUP" version="14.5.3" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1186" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="100" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-57" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+          <mxGeometry x="45" y="840" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="项目" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry x="45" y="200" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-7" value="3. 返回构建信息" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="248" as="targetPoint" />
+            <mxPoint x="342" y="248" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="342" y="248" />
+              <mxPoint x="180" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="1. 保存构建任务" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-1" value="2.2. 通知-构建任务已创建" style="verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;shadow=0;strokeWidth=1;endFill=0;startArrow=block;startFill=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="i4ZOvsLfdN8Os_MDt1wd-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="241.03999999999996" as="targetPoint" />
+            <mxPoint x="785" y="241.03999999999996" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-2" value="Kafka" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="80" width="100" height="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="i4ZOvsLfdN8Os_MDt1wd-2">
+          <mxGeometry x="45" y="80" width="10" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=none;endFill=0;endSize=6;" edge="1" parent="i4ZOvsLfdN8Os_MDt1wd-2" source="i4ZOvsLfdN8Os_MDt1wd-3" target="i4ZOvsLfdN8Os_MDt1wd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-7" value="4.1 监听事件  " style="verticalAlign=bottom;endArrow=classicThin;dashed=1;endSize=8;shadow=0;strokeWidth=1;endFill=1;startArrow=none;startFill=0;exitX=-0.007;exitY=0.863;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i4ZOvsLfdN8Os_MDt1wd-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357" y="290" as="targetPoint" />
+            <mxPoint x="780" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="362" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-13" value="" style="curved=1;endArrow=none;html=1;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="230" as="sourcePoint" />
+            <mxPoint x="355" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="220" />
+              <mxPoint x="395" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-14" value="2.1 保存任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4ZOvsLfdN8Os_MDt1wd-13">
+          <mxGeometry x="-0.0653" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-16" value="ProjectBuildJobCreated" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-17" value="" style="curved=1;endArrow=none;html=1;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="360" as="sourcePoint" />
+            <mxPoint x="355" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="350" />
+              <mxPoint x="395" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-18" value="4.2 生成构建环境配置,创建构建计划,更新任务状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4ZOvsLfdN8Os_MDt1wd-17">
+          <mxGeometry x="-0.0653" y="2" relative="1" as="geometry">
+            <mxPoint x="97" y="-4.23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-19" value="4.3. 通知-构建任务已创建" style="verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;shadow=0;strokeWidth=1;endFill=0;startArrow=block;startFill=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="411.03999999999996" as="targetPoint" />
+            <mxPoint x="715" y="410" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-21" value="ProjectBuildJobReady" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="400" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-22" value="容器" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="100" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-25" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="i4ZOvsLfdN8Os_MDt1wd-22">
+          <mxGeometry x="45" y="370" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-27" value="5.1 监听事件  " style="verticalAlign=bottom;endArrow=classicThin;dashed=1;endSize=8;shadow=0;strokeWidth=1;endFill=1;startArrow=none;startFill=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="i4ZOvsLfdN8Os_MDt1wd-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508.05" y="460.96000000000004" as="targetPoint" />
+            <mxPoint x="710" y="461" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="513.05" y="460.96000000000004" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-28" value="" style="curved=1;endArrow=none;html=1;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509" y="547" as="sourcePoint" />
+            <mxPoint x="509" y="487" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="549" y="537" />
+              <mxPoint x="549" y="497" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-29" value="5.2 创建容器配置信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4ZOvsLfdN8Os_MDt1wd-28">
+          <mxGeometry x="-0.0653" y="2" relative="1" as="geometry">
+            <mxPoint x="42" y="-4.23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-30" value="5.3. 通知-启动容器" style="verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;shadow=0;strokeWidth=1;endFill=0;startArrow=block;startFill=1;exitX=-0.02;exitY=0.388;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i4ZOvsLfdN8Os_MDt1wd-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="581.04" as="targetPoint" />
+            <mxPoint x="780" y="581" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-31" value="InstanceStarted" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="550" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-32" value="kubernetes" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="80" width="120" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-33" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="i4ZOvsLfdN8Os_MDt1wd-32">
+          <mxGeometry x="55" y="500" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-34" value="6.1 监听事件" style="verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;shadow=0;strokeWidth=1;endFill=0;startArrow=block;startFill=1;exitX=0.1;exitY=0.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="i4ZOvsLfdN8Os_MDt1wd-32" source="i4ZOvsLfdN8Os_MDt1wd-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-61" y="520" as="targetPoint" />
+            <mxPoint x="48" y="522.1199999999999" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-35" value="" style="curved=1;endArrow=none;html=1;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="945" y="650" as="sourcePoint" />
+            <mxPoint x="945" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="985" y="640" />
+              <mxPoint x="985" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-36" value="6.2 生成网络配置并创建网络" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4ZOvsLfdN8Os_MDt1wd-35">
+          <mxGeometry x="-0.0653" y="2" relative="1" as="geometry">
+            <mxPoint x="43" y="-4.23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-37" value="" style="curved=1;endArrow=none;html=1;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="945" y="840" as="sourcePoint" />
+            <mxPoint x="945" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="985" y="830" />
+              <mxPoint x="985" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-38" value="6.3 生成k8s容器配置并启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4ZOvsLfdN8Os_MDt1wd-37">
+          <mxGeometry x="-0.0653" y="2" relative="1" as="geometry">
+            <mxPoint x="42" y="-4.23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-39" value="RuntimeEntrypointUpdated" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="680" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-43" value="5.3. 通知-网络创建" style="verticalAlign=bottom;endArrow=classicThin;dashed=1;endSize=8;shadow=0;strokeWidth=1;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="710.96" as="targetPoint" />
+            <mxPoint x="934" y="711" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="825" y="710.96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-45" value="RuntimeStarted" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="850" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-48" value="5.3. 通知-容器启动" style="verticalAlign=bottom;endArrow=classicThin;dashed=1;endSize=8;shadow=0;strokeWidth=1;endFill=1;startArrow=none;startFill=0;exitX=0.1;exitY=0.825;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i4ZOvsLfdN8Os_MDt1wd-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="876" as="targetPoint" />
+            <mxPoint x="930" y="876.04" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-49" value="kubernetes-keepalive" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="80" width="120" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-50" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="i4ZOvsLfdN8Os_MDt1wd-49">
+          <mxGeometry x="55" y="500" width="10" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-52" value="6.1 监听事件  " style="verticalAlign=bottom;endArrow=classicThin;dashed=1;endSize=8;shadow=0;strokeWidth=1;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="910.96" as="targetPoint" />
+            <mxPoint x="1140" y="911" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-53" value="" style="curved=1;endArrow=none;html=1;endFill=0;startArrow=block;startFill=1;exitX=0.9;exitY=0.891;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i4ZOvsLfdN8Os_MDt1wd-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1155" y="1000" as="sourcePoint" />
+            <mxPoint x="1155" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1195" y="990" />
+              <mxPoint x="1195" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-54" value="6.3 监听容器启动事件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4ZOvsLfdN8Os_MDt1wd-53">
+          <mxGeometry x="-0.0653" y="2" relative="1" as="geometry">
+            <mxPoint x="42" y="-4.23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4ZOvsLfdN8Os_MDt1wd-56" value="7.1 返回启动日志" style="verticalAlign=bottom;endArrow=classicThin;dashed=1;endSize=8;shadow=0;strokeWidth=1;endFill=1;startArrow=none;startFill=0;exitX=0.1;exitY=0.848;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i4ZOvsLfdN8Os_MDt1wd-50" target="3nuBFxr9cyL0pnOWT2aG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="967.96" as="targetPoint" />
+            <mxPoint x="834.5" y="967.96" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
